@@ -29,8 +29,6 @@ COMMENT /*MULTI LINE*/
 ^ ^
 > >
 < <
-LSHIFT <<
-RSHIFT >>
 
 ELLIPSIS ...
 
